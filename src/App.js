@@ -11,6 +11,9 @@ export default function App() {
             <Button2/>
             <StyledComponent/>
             <TailwindComponent/>
+            <TailwindComponent/>
+            <TailwindComponent/>
+            <TailwindComponent/>
         </>
     );
 }
